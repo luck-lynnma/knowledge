@@ -1,0 +1,17 @@
+{
+    "plugins": [
+        "-lunr", "-search", "search-plus",
+        "-sharing",
+        "splitter",
+        "expandable-chapters-small",
+        "anchor-navigation-ex"
+    ],
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+           "isShowTocTitleIcon": true,
+           "tocLevel1Icon": "fa fa-hand-o-right",
+           "tocLevel2Icon": "fa fa-hand-o-right",
+           "tocLevel3Icon": "fa fa-hand-o-right"
+       }
+    }
+}
